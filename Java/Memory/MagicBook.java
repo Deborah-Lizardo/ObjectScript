@@ -1,4 +1,6 @@
-public class Main {
+package Memory;
+
+public class MagicBook {
     public static void main(String[] args) {
         String[] magicBook = {
                 "Magical bread recipe: flour, water, yeast.",
