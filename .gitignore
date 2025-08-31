@@ -10,8 +10,6 @@ out/
 /nbdist/
 /.nb-gradle/
 
-### VS Code ###
-.vscode/
+CMakeLists.txt
+cmake-build-debug/
 
-### Mac OS ###
-.DS_Store
