@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// ex1
 int main() {
     const char* magic_book[] = {
         "Magical bread recipe: flour, water, yeast.",
